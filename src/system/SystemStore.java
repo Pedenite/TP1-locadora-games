@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import classes.Game;
-import classes.Person;
 import exceptions.ExistingIdException;
+import model.Game;
+import model.Person;
 
 public class SystemStore {
 
